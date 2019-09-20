@@ -1,0 +1,26 @@
+{
+    "status":"ok",
+    "articleDetail":{
+        "title":"Acting spy chief agrees to testify on whistleblower",
+        "content":"<p>The committee's chairman, Rep. Adam Schiff, announced Wednesday that Maguire will appear at 9 a.m. on September 26. The California Democrat also announced that the intelligence community inspector general will brief the House committee Thursday behind closed doors about how it handled the whistleblower complaint.</p><p>In a subpoena issued last week, Schiff said he would force the acting intelligence chief to testify this Thursday if he did not comply with a request to turn over the complaint and all corresponding records.</p><p>But by Wednesday, the two sides appeared to have reached a compromise, if only on the timing of the hearing, setting the stage for what could be a contentious public hearing. Maguire will likely be grilled by lawmakers concerned that the administration may have violated whistleblower protections and whether President Donald Trump or top White House officials were involved in the case.</p>",
+        "commentlist":[{
+            "author":"Carmen Qiu",
+            "createDate":"2019-01-01",
+            "content":"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",
+            "likeNum": 99,
+            "isLike": false
+      },{
+            "author":"Carmen Qiu",
+            "createDate":"2019-01-01",
+            "content":"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",
+            "likeNum": 199,
+            "isLike": false
+        },{
+            "author":"Carmen Qiu",
+            "createDate":"2019-01-01",
+            "content":"Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",
+            "likeNum": 199,
+            "isLike": false
+        }]
+    }
+}
